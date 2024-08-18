@@ -70,5 +70,5 @@ v. Product Category Strategies:
    - Re-evaluate the discount strategy for the Furniture category, which shows good sales but low profit.
    - Increase focus on the Technology category by boosting transactions since it shows high average profit despite fewer sales.
 
-These conclusions and recommendations should help in optimizing business strategies to enhance profitability, minimize losses, and efficiently manage inventory and discounts across various regions and product 
+These conclusions and recommendations should help in optimizing business strategies to enhance profitability, minimize losses, and efficiently manage inventory and discounts across various regions and product categories.
 
